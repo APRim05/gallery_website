@@ -71,6 +71,9 @@ nav ul {
   position: relative;
   bottom: 2px;
 }
+.contact-btn a:hover {
+  background-color: #cce6ff;
+}
 
 nav a {
   height: 60px;
